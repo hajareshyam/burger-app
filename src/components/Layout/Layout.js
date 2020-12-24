@@ -1,5 +1,7 @@
 import classes from './Layout.module.css'
 import Aux from "../../hoc/Aux";
+import Footer from "../Footer/Footer"
+import Header from "../Header/Header"
 
 const layout = (props) => {
     return (
